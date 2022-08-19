@@ -1,0 +1,12 @@
+.btn-success:hover{
+    background-color: teal;
+}
+canvas{
+    animation-name: Aditi;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes Aditi{
+    from{box-shadow: 1px 1px 100px steelblue;}
+    to{box-shadow: 1px 1px 100px aqua;}
+}
